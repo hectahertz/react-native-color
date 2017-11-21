@@ -1,0 +1,32 @@
+{
+  "name": "react-native-color",
+  "version": "0.0.1",
+  "description": "Color components for React Native",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectahertz/react-native-color.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "dialog",
+    "pop-up",
+    "popup",
+    "modal",
+    "color",
+    "picker"
+  ],
+  "author": "hectahertz <hectahertz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hectahertz/react-native-color/issues"
+  },
+  "homepage": "https://github.com/hectahertz/react-native-color#readme"
+}
