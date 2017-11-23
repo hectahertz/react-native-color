@@ -1,8 +1,11 @@
 {
   "name": "react-native-color",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "Color components for React Native",
-  "main": "index.js",
+  "main": "src/index.js",
+  "files": [
+    "src/"
+  ],
   "directories": {
     "example": "example"
   },
@@ -28,5 +31,14 @@
   "bugs": {
     "url": "https://github.com/hectahertz/react-native-color/issues"
   },
-  "homepage": "https://github.com/hectahertz/react-native-color#readme"
+  "homepage": "https://github.com/hectahertz/react-native-color#readme",
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react-native-slider": "^0.11.0",
+    "tinycolor2": "^1.4.1"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
 }
