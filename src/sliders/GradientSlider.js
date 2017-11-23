@@ -59,7 +59,6 @@ const styles = StyleSheet.create({
 });
 
 GradientSlider.propTypes = {
-  style: View.propTypes.style,
   value: PropTypes.number.isRequired,
   step: PropTypes.number.isRequired,
   maximumValue: PropTypes.number.isRequired,

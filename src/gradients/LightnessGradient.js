@@ -33,7 +33,6 @@ class LightnessGradient extends Component {
 export default LightnessGradient;
 
 LightnessGradient.propTypes = {
-  style: View.propTypes.style,
   color: PropTypes.shape({
     h: PropTypes.number.isRequired,
     s: PropTypes.number.isRequired,

@@ -325,7 +325,6 @@ const styles = StyleSheet.create({
 });
 
 SlidersColorPicker.propTypes = {
-  style: View.propTypes.style,
   visible: PropTypes.bool.isRequired,
   swatches: PropTypes.arrayOf(PropTypes.string).isRequired,
   swatchesLabel: PropTypes.string.isRequired,

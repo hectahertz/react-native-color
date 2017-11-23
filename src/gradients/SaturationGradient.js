@@ -33,7 +33,6 @@ class SaturationGradient extends Component {
 export default SaturationGradient;
 
 SaturationGradient.propTypes = {
-  style: View.propTypes.style,
   color: PropTypes.shape({
     h: PropTypes.number.isRequired,
     s: PropTypes.number.isRequired,

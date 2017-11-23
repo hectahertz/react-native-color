@@ -30,7 +30,6 @@ const LightnessSlider = ({
 export default LightnessSlider;
 
 LightnessSlider.propTypes = {
-  style: View.propTypes.style,
   value: PropTypes.number.isRequired,
   color: PropTypes.shape({
     h: PropTypes.number.isRequired,

@@ -22,7 +22,6 @@ const HueSlider = ({ style, value, onValueChange, gradientSteps }) => {
 export default HueSlider;
 
 HueSlider.propTypes = {
-  style: View.propTypes.style,
   value: PropTypes.number.isRequired,
   onValueChange: PropTypes.func.isRequired,
   gradientSteps: PropTypes.number.isRequired

@@ -23,6 +23,5 @@ class HueGradient extends PureComponent {
 export default HueGradient;
 
 HueGradient.propTypes = {
-  style: View.propTypes.style,
   gradientSteps: PropTypes.number.isRequired
 };

@@ -31,7 +31,6 @@ const styles = StyleSheet.create({
 });
 
 Gradient.propTypes = {
-  style: View.propTypes.style,
   gradientSteps: PropTypes.number.isRequired,
   maximumValue: PropTypes.number.isRequired,
   getStepColor: PropTypes.func.isRequired
