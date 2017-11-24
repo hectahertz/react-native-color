@@ -1,6 +1,6 @@
 {
   "name": "react-native-color",
-  "version": "0.0.5",
+  "version": "0.0.10",
   "description": "Color components for React Native",
   "main": "src/index.js",
   "files": [
