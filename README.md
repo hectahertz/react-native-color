@@ -3,7 +3,7 @@
 Color components for React Native. JavaScript-only, for iOS and Android.
 
 [![npm version](https://img.shields.io/npm/v/react-native-color.svg)](https://www.npmjs.com/package/react-native-color)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![npm downloads](https://img.shields.io/npm/dm/react-native-color.svg)](https://www.npmjs.com/package/react-native-color)
 
 ## Example
