@@ -1,7 +1,6 @@
 {
   "name": "react-native-color-example",
   "version": "0.1.0",
-  "private": true,
   "devDependencies": {
     "jest-expo": "^22.0.0",
     "react-native-scripts": "1.7.0",
